@@ -1,0 +1,6 @@
+/vendor/
+/wp
+/content/themes/twentynineteen
+/content/plugins/hello-dolly
+wp-config.php
+composer.lock
