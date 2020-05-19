@@ -2,7 +2,7 @@
 
  Sommaire : 
  
- <a href="#install-env">Installation de l'environnement de travail</a>
+ <a href="#install-env">1) Installation de l'environnement de travail</a>
   <ul>
     <li><a href="#apache">Apache</a></li>
     <li><a href="#php">PHP</a></li>
@@ -12,7 +12,7 @@
     <li><a href="#composer">Composer</a></li>    
     <li><a href="#config-final">Configuration finale</a></li>    
  </ul>
- <a href="#install-wp">Installation custom de Wordpress</a>
+ <a href="#install-wp">2) Installation custom de Wordpress</a>
  <ul>
     <li><a href="#install-wp">Pour commencer</a></li>
     <li><a href="#permalinks">Permaliens</a></li>
@@ -20,7 +20,7 @@
     <li><a href="#links">Liens utiles à Wordpress</a></li>
     <li><a href="#rappel-wpconfig">Rappel de ce qu'il faut ajouter dans notre wp-config</a></li>
  </ul>
- <a href="#begin">Par quoi commencer ?</a>
+ <a href="#begin">3) Par quoi commencer ?</a>
  <ul>
     <li><a href="#dll-package-wp">Composer et Packagist : téléchargement du repo wordpress</a></li>
     <li><a href="#problem-language">Problème de langage</a></li>
@@ -29,13 +29,13 @@
     <li><a href="#modif-theme">Modifier nos thèmes</a></li>
     <li><a href="#menage">Un peu de ménage ? </a></li>
  </ul>
- <a href="#install-fast">Aller plus vite pour créer un pattern de base</a>
+ <a href="#install-fast">4) Aller plus vite pour créer un pattern de base</a>
 
- <a href="#use-pattern">Utilisation du pattern </a>
+ <a href="#use-pattern">5) Utilisation du pattern </a>
 
- <a href="#create-theme">créer notre thème Wordpress</a>
- 
- <a href="#create-react-theme">Theme React pour Wordpress</a>
+ <a href="#create-theme">6) Créer notre thème Wordpress</a>
+
+ <a href="#create-react-theme">7) Theme React pour Wordpress</a>
 
 <div id="install-env"></div>
 
