@@ -30,8 +30,11 @@
     <li><a href="#menage">Un peu de ménage ? </a></li>
  </ul>
  <a href="#install-fast">Aller plus vite pour créer un pattern de base</a>
+
  <a href="#use-pattern">Utilisation du pattern </a>
+
  <a href="#create-theme">créer notre thème Wordpress</a>
+ 
  <a href="#create-react-theme">Theme React pour Wordpress</a>
 
 <div id="install-env"></div>
