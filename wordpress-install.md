@@ -5,31 +5,29 @@
  <a href="#install-env">Installation de l'environnement de travail</a>
   <ul>
     <li><a href="#apache">Apache</a></li>
-    <li><a href="php">PHP</a></li>
-    <li><a href="mysql">MySQL</a></li>
-    <li><a href="create-super-user">Création d'un super-utilisateur</a></li>
-    <li><a href="pma">PhpMyAdmin</a></li>  
-    <li><a href="composer">Composer</a></li>    
-    <li><a href="config-final">Configuration finale</a></li>    
+    <li><a href="#php">PHP</a></li>
+    <li><a href="#mysql">MySQL</a></li>
+    <li><a href="#create-super-user">Création d'un super-utilisateur</a></li>
+    <li><a href="#pma">PhpMyAdmin</a></li>  
+    <li><a href="#composer">Composer</a></li>    
+    <li><a href="#config-final">Configuration finale</a></li>    
  </ul>
  <a href="#install-wp">Installation custom de Wordpress</a>
  <ul>
     <li><a href="#install-wp">Pour commencer</a></li>
-    <li><a href="permalinks">Permaliens</a></li>
-    <li><a href="desactive-theme">Désactiver l'éditeur de thème</a></li>
-    <li><a href="links">Liens utiles à Wordpress</a></li>
-    <li><a href="rappel-wpconfig">Rappel de ce qu'il faut ajouter dans notre wp-config</a></li>
-    <li><a href="links">Liens utiles à Wordpress</a></li>
-    <li><a href="links">Liens utiles à Wordpress</a></li>
+    <li><a href="#permalinks">Permaliens</a></li>
+    <li><a href="#desactive-theme">Désactiver l'éditeur de thème</a></li>
+    <li><a href="#links">Liens utiles à Wordpress</a></li>
+    <li><a href="#rappel-wpconfig">Rappel de ce qu'il faut ajouter dans notre wp-config</a></li>
  </ul>
  <a href="#begin">Par quoi commencer ?</a>
  <ul>
     <li><a href="#dll-package-wp">Composer et Packagist : téléchargement du repo wordpress</a></li>
-    <li><a href="problem-language">Problème de langage</a></li>
-    <li><a href="key-salt">Clé de salage et fichier Sample</a></li>
-    <li><a href="gitignore">Le fichier .gitignore</a></li>
-    <li><a href="modif-theme">Modifier nos thèmes</a></li>
-    <li><a href="menage">Un peu de ménage ? </a></li>
+    <li><a href="#problem-language">Problème de langage</a></li>
+    <li><a href="#key-salt">Clé de salage et fichier Sample</a></li>
+    <li><a href="#gitignore">Le fichier .gitignore</a></li>
+    <li><a href="#modif-theme">Modifier nos thèmes</a></li>
+    <li><a href="#menage">Un peu de ménage ? </a></li>
  </ul>
  <a href="#install-fast">Aller plus vite pour créer un pattern de base</a>
  <a href="#use-pattern">Utilisation du pattern </a>
