@@ -6,6 +6,6 @@ Pour installer correctement ce pattern, tapez `composer install` dans le termina
 
 Pour le reste, (comme la bdd) je vous conseille d'aller sur le fichier `wordpress-install.md` pour connaitre la démarche à suivre. 
 
-**Good Luck and have fun ! **
+**Good Luck and have fun !**
 
 Marianne Piquet-Nowak. 
